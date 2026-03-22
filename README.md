@@ -1,3 +1,8 @@
+# Kaupenjoe
+A giant mod, where I learned modding and tested some things in Minecraft Forge 1.16.5<br>
+Started this mod in 20 june 2023 and ended in december 2023.<br><br>
+P.S. Kaupenjoe is the creator of many of Minecraft modding tutorials that I learned from.
+## Screenshots:
 <img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/6cd201ff-381f-47a1-960e-c2df20689bda" />
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/63ae682a-2eb7-478b-a822-427031650da9" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/92f785ec-2365-4a0d-82a9-1b4decf97ece" />
